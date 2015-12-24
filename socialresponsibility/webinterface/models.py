@@ -12,3 +12,8 @@ class Comments(models.Model):
     pid = models.IntegerField()
     author = models.ForeignKey('auth.User')
     text = models.TextField()
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
