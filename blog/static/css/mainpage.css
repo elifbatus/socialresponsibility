@@ -1,0 +1,25 @@
+.page-header {
+    background-color: #14ADE0;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #3E702D;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Indie Flower';
+}
+
+.post{
+	font-family: 'Roboto';	
+	margin-left: 40px;
+}
+
+.post h2, .post h2 a{
+	color: #3E702D;
+}
+

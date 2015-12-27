@@ -1,0 +1,30 @@
+body{
+	background-color: lightblue;
+}
+
+.head{
+	background-color: #592615;
+	margin-top: 0;
+    padding: 20px 20px 20px 400px;
+}
+
+.head h1, .head h1 a{
+    color: #873013;
+ 
+}
+.posts{
+	padding: 20px 20px 20px 10px;
+
+}
+
+.posts h1, .posts h1 a, .posts p{
+	color: #AD9790;
+}
+
+p {
+	font-family: "Times New Roman";
+}
+
+body {
+    padding-left: 15px;
+}
